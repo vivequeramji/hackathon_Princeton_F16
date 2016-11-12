@@ -15,7 +15,6 @@ Cannon Green
 Chancellor Green
 Career Services
 Chapel
-Helm
 New South
 Fields Center
 West College
@@ -53,7 +52,7 @@ Wawa
 Bloomberg
 Bogle
 Wilf
-We
+Wu
 Yoseloff
 Studio 34
 Studio34
@@ -118,3 +117,12 @@ Icahn
 McDonnell
 Neuroscience
 Frick
+Dickinson
+Burr
+Sherrard
+Andlinger
+Marx
+1879
+Murray
+Art Museum
+
