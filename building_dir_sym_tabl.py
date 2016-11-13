@@ -16,13 +16,9 @@ with open('locations.csv', 'rb') as f:
 	
 	reader = csv.reader(f)
 	building_names = {}
-	
+
 	for row in reader:
 		point = Point(row[1], row[2])
-		building_names[row[0]] = point 
+		name = row[0].lower()
+		building_names[name] = point 
 	f.close()
-'''
-for key,value in building_names.items():
-    print key 
-    value.print_point()
-'''
